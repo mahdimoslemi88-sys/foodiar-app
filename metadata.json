@@ -1,0 +1,7 @@
+{
+  "name": "Foodyar 2 v0.02.2",
+  "description": "سیستم مدیریت هوشمند رستوران و کافه با هسته پردازشی جمنای برای تحلیل مالی و مدیریت موجودی",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
