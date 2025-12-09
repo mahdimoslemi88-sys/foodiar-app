@@ -5,7 +5,7 @@ import {
 } from "../types";
 
 // Helper to safely get the API key
-const getApiKey = () => {
+const getApiKey = (AlzaSyD8gcgsPRNy60DSTQKtZNVJRJQEMK9G-WA) => {
   // The AIView component ensures window.aistudio handles the selection before this is called
   return process.env.API_KEY || '';
 };
